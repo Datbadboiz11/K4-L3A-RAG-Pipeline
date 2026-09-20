@@ -10,7 +10,7 @@
 | STT | Họ và tên | Mã sinh viên | Vai trò chính | Tỷ lệ đóng góp |
 | :---: | :--- | :---: | :--- | :---: |
 | **1** | **Thân Tiến Đạt** | **2A202603023** | Pipeline Architect & Retrieval Lead | **50%** |
-| **2** | *(Điền họ và tên)* | *(Điền mã SV)* | Data Engineer & Evaluation Lead | **50%** |
+| **2** | **Vũ Gia Khải** | **2A202602786** | Data Engineer & Evaluation Lead | **50%** |
 
 ---
 
@@ -39,7 +39,7 @@
 
 ---
 
-### Thành viên 2: *(Điền họ tên)* — Data Engineer & Evaluation Lead
+### Thành viên 2: Vũ Gia Khải (2A202602786) — Data Engineer & Evaluation Lead
 **Phạm vi trách nhiệm:** Thu thập dữ liệu đa nguồn, chuẩn hóa văn bản thô, xây dựng các công cụ tìm kiếm thành phần, thiết lập bộ kiểm thử vàng (Golden Dataset), thực nghiệm A/B Testing và báo cáo đánh giá.
 
 - **Task 1 (Thu thập văn bản pháp lý):**
