@@ -1,7 +1,7 @@
-# Day 8 — RAG Pipeline (Nhóm G02)
+# Day 8 — RAG Pipeline (Nhóm KDDK)
 
 > **Đề tài:** Chatbot RAG tư vấn tuyển sinh Học viện Công nghệ Bưu chính Viễn thông (PTIT 2026)  
-> **Nhóm G02 (2 Thành viên):**  
+> **Nhóm KDDK (2 Thành viên):**  
 > - **Thành viên 1:** Thân Tiến Đạt — MSSV: `2A202603023` (Pipeline Architect & Retrieval Lead)  
 > - **Thành viên 2:** Vũ Gia Khải — MSSV: `2A202602786` (Data Engineer & Evaluation Lead)  
 

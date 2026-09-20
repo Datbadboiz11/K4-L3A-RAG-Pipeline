@@ -1,4 +1,4 @@
-# BẢNG PHÂN CHIA CÔNG VIỆC DỰ ÁN RAG PIPELINE (NHÓM 2 THÀNH VIÊN)
+# BẢNG PHÂN CHIA CÔNG VIỆC DỰ ÁN RAG PIPELINE (NHÓM KDDK)
 
 **Dự án:** Chatbot RAG tư vấn tuyển sinh Học viện Công nghệ Bưu chính Viễn thông (PTIT 2026)  
 **Khóa học:** AI Thực chiến K4 — Day 8 RAG Pipeline  
