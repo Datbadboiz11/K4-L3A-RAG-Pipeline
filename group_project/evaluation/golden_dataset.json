@@ -1,0 +1,82 @@
+[
+  {
+    "question": "Tên cơ sở đào tạo và mã trường trong tuyển sinh của Học viện Công nghệ Bưu chính Viễn thông là gì?",
+    "expected_answer": "Học viện Công nghệ Bưu chính Viễn thông có 2 mã trường trong tuyển sinh: BVH đối với Cơ sở đào tạo phía Bắc và BVS đối với Cơ sở đào tạo phía Nam.",
+    "expected_context": "Tên cơ sở đào tạo: HỌC VIỆN CÔNG NGHỆ BƯU CHÍNH VIỄN THÔNG. Mã cơ sở đào tạo trong tuyển sinh: BVH và BVS."
+  },
+  {
+    "question": "Địa chỉ trụ sở chính của Cơ sở đào tạo Phía Bắc (BVH) đặt tại đâu?",
+    "expected_answer": "Cơ sở đào tạo Phía Bắc (BVH) có trụ sở chính tại Số 122 Hoàng Quốc Việt, Phường Nghĩa Đô, Thị xã Cầu Giấy, Hà Nội và cơ sở đào tạo tại Số 96A Trần Phú, Phường Hà Đông, Hà Nội.",
+    "expected_context": "Cơ sở đào tạo Phía Bắc: Số 122 Hoàng Quốc Việt, Phường Nghĩa Đô, Thị xã Cầu Giấy, Thành phố Hà Nội (Trụ sở chính); Số 96A Trần Phú, Phường Hà Đông, Thành phố Hà Nội."
+  },
+  {
+    "question": "Năm 2026, Học viện áp dụng những phương thức tuyển sinh nào?",
+    "expected_answer": "Học viện sử dụng 4 phương thức tuyển sinh: Phương thức 1 (Xét tuyển tài năng), Phương thức 2 (Xét tuyển dựa vào kết quả thi đánh giá năng lực, đánh giá tư duy), Phương thức 3 (Xét tuyển dựa vào kết quả thi tốt nghiệp THPT năm 2026), và Phương thức 4 (Xét tuyển kết hợp chứng chỉ tiếng Anh quốc tế với kết quả học tập THPT).",
+    "expected_context": "Phương thức 1: Xét tuyển tài năng; Phương thức 2: Xét tuyển dựa vào kết quả bài thi đánh giá năng lực, đánh giá tư duy; Phương thức 3: Xét tuyển dựa vào kết quả thi tốt nghiệp THPT năm 2026; Phương thức 4: Xét tuyển kết hợp giữa Chứng chỉ tiếng Anh quốc tế với kết quả học tập ở bậc THPT."
+  },
+  {
+    "question": "Thí sinh cần đạt điều kiện gì về chứng chỉ tiếng Anh quốc tế để đăng ký xét tuyển theo Phương thức 4?",
+    "expected_answer": "Thí sinh cần có chứng chỉ tiếng Anh quốc tế còn thời hạn đạt IELTS 5.5 trở lên, hoặc TOEFL iBT 65 trở lên, hoặc TOEFL ITP 513 trở lên; đồng thời điểm trung bình chung học tập lớp 10, 11, 12 đạt từ 7,5 trở lên và hạnh kiểm từ loại Khá trở lên.",
+    "expected_context": "Thí sinh có Chứng chỉ tiếng Anh quốc tế trong thời hạn (tính đến ngày đăng ký dự tuyển) đạt IELTS 5.5 trở lên hoặc TOEFL iBT 65 trở lên hoặc TOEFL ITP 513 trở lên và có kết quả điểm trung bình chung học tập lớp 10, 11, 12 đạt từ 7,5 trở lên và có hạnh kiểm Khá trở lên."
+  },
+  {
+    "question": "Mức điểm khuyến khích (thang 30) cộng cho thí sinh có chứng chỉ IELTS từ 7.0 đến 9.0 là bao nhiêu?",
+    "expected_answer": "Thí sinh có chứng chỉ IELTS đạt từ 7.0 đến 9.0 được cộng 1,50 điểm khuyến khích theo thang điểm 30.",
+    "expected_context": "| 1 | 7.0 – 9.0 | Từ 94 điểm trở lên | Từ 627 điểm trở lên | 1,50 điểm | Mức điểm khuyến khích (theo thang điểm30)"
+  },
+  {
+    "question": "Mức điểm khuyến khích cộng cho thí sinh có chứng chỉ IELTS 6.5 và IELTS 6.0 lần lượt là bao nhiêu?",
+    "expected_answer": "Thí sinh có chứng chỉ IELTS 6.5 được cộng 1,00 điểm và IELTS 6.0 được cộng 0,75 điểm khuyến khích theo thang điểm 30.",
+    "expected_context": "| 2 | 6.5 | 86 – 93 | 591 – 626 | 1,00 điểm |\n| 3 | 6.0 | 72 – 85 | 546 – 590 | 0,75 điểm |"
+  },
+  {
+    "question": "Năm 2026, Học viện cấp bao nhiêu suất học bổng đặc biệt và giá trị mỗi suất là bao nhiêu?",
+    "expected_answer": "Năm 2026, Học viện cấp tối đa 30 suất học bổng đặc biệt, với giá trị mỗi suất học bổng lên tới 500 triệu đồng.",
+    "expected_context": "năm 2026, Học viện Công nghệ Bưu chính Viễn thông cấp tối đa 30 suất học bổng đặc biệt, giá trị mỗi suất học bổng tới 500 triệu đồng (gồm: học phí trong toàn thời gian học, chi phí ăn ở, kinh phí nghiên cứu khoa học, thực tập ở nước ngoài...)"
+  },
+  {
+    "question": "Đối tượng nào được xét cấp Học bổng đặc biệt của Học viện năm 2026?",
+    "expected_answer": "Các thí sinh tham dự kỳ thi chọn đội tuyển quốc gia dự thi Olympic quốc tế; thí sinh đoạt giải Nhất, Nhì, Ba HSG quốc gia môn Toán, Vật lí, Tin học; hoặc thí sinh có điểm thi tốt nghiệp THPT từ 29,0 điểm trở lên.",
+    "expected_context": "Đối tượng xét cấp học bổng đặc biệt là các thí sinh tham dự kỳ thi chọn đội tuyển quốc gia dự thi Olympic quốc tế, thí sinh đoạt giải Nhất, Nhì, Ba trong kỳ thi chọn học sinh giỏi quốc gia các môn Toán, Vật lí và Tin học; thí sinh có điểm thi tốt nghiệp THPT từ 29,0 điểm trở lên."
+  },
+  {
+    "question": "Năm 2026, Học viện cấp tối đa bao nhiêu suất học bổng toàn phần và đối tượng nào được nhận?",
+    "expected_answer": "Học viện cấp tối đa 50 suất học bổng toàn phần (giá trị tới 250 triệu đồng) cho thí sinh đoạt giải Khuyến khích HSG quốc gia môn Toán, Lí, Tin; giải Nhất HSG cấp Tỉnh/Thành phố môn Toán, Lí, Tin; hoặc có điểm thi tốt nghiệp THPT từ 28,5 điểm trở lên.",
+    "expected_context": "cấp tối đa 50 suất học bổng toàn phần với giá trị học bổng tới 250 triệu đồng cho các thí sinh đoạt giải Khuyến khích trong kỳ thi chọn học sinh giỏi quốc gia các môn Toán, Vật lí và Tin học; thí sinh đoạt giải Nhất trong kỳ thi học sinh giỏi cấp Tỉnh... thí sinh có điểm thi tốt nghiệp THPT từ 28,5 điểm trở lên."
+  },
+  {
+    "question": "Chỉ tiêu tuyển sinh ngành Công nghệ thông tin (mã 7480201) cơ sở Hà Nội năm 2026 là bao nhiêu?",
+    "expected_answer": "Chỉ tiêu tuyển sinh ngành Công nghệ thông tin (mã ngành 7480201) tại Cơ sở đào tạo phía Bắc (BVH) năm 2026 là 600 sinh viên.",
+    "expected_context": "| 6 | 7480201 | Công nghệ thông tin | 7480201 | Công nghệ thông tin | 600 | CƠ SỞ ĐÀO TẠO PHÍA BẮC (Mã trường: BVH)"
+  },
+  {
+    "question": "Chỉ tiêu tuyển sinh chương trình Công nghệ thông tin chất lượng cao (mã 7480201CL) cơ sở Hà Nội năm 2026 là bao nhiêu?",
+    "expected_answer": "Chỉ tiêu tuyển sinh chương trình Công nghệ thông tin chất lượng cao tại Cơ sở phía Bắc năm 2026 là 370 sinh viên.",
+    "expected_context": "| 1 | 7480201CL | Công nghệ thông tin | 7480201 | Công nghệ thông tin | 370 | Phương thức tuyển sinh: 1, 2, 3, 4, 5"
+  },
+  {
+    "question": "Mức thu học phí trình độ đại học chương trình đại trà năm học 2026-2027 của Học viện là bao nhiêu?",
+    "expected_answer": "Học phí chương trình đại trà năm học 2026-2027 trung bình từ khoảng 27,8 triệu đồng/năm đến 32,5 triệu đồng/năm học tùy theo từng ngành học.",
+    "expected_context": "Học phí chương trình đại trà năm học 2026-2027: mức thu học phí trung bình từ khoảng 27,8 triệu đồng/năm đến 32,5 triệu đồng/năm tùy theo từng ngành học;"
+  },
+  {
+    "question": "Mức thu học phí chương trình Cử nhân Công nghệ thông tin định hướng ứng dụng năm học 2026-2027 là bao nhiêu?",
+    "expected_answer": "Mức thu học phí chương trình Cử nhân Công nghệ thông tin định hướng ứng dụng năm học 2026-2027 trung bình từ khoảng 41,3 triệu đồng/năm đến 46,7 triệu đồng/năm học.",
+    "expected_context": "Học phí chương trình Cử nhân Công nghệ thông tin (định hướng ứng dụng), Thiết kế và phát triển Game, Công nghệ thông tin Việt - Nhật, Trí tuệ nhân tạo năm học 2026-2027: mức thu học phí trung bình từ khoảng 41,3 triệu đồng/năm đến 46,7 triệu đồng/năm học tùy theo từng ngành/ chương trình học;"
+  },
+  {
+    "question": "Học viện tuyển sinh các chương trình đào tạo chất lượng cao nào trong năm 2026?",
+    "expected_answer": "Năm 2026, Học viện tuyển sinh các chương trình chất lượng cao gồm: Công nghệ thông tin, Marketing, Kế toán (chuẩn quốc tế ACCA), An toàn thông tin và Truyền thông đa phương tiện.",
+    "expected_context": "Cụ thể gồm có các chương trình chất lượng cao: Công nghệ thông tin, Marketing, Kế toán (theo chuẩn quốc tế ACCA), An toàn thông tin và Truyền thông đa phương tiện."
+  },
+  {
+    "question": "Thí sinh trúng tuyển ngành Công nghệ thông tin cơ sở phía Bắc nhập học vào thời gian và địa điểm nào?",
+    "expected_answer": "Thí sinh nhập học vào sáng ngày 22 tháng 8 năm 2026 (từ 7h30 đến 12h00) tại Hội trường nhà A2, Cơ sở đào tạo phía Bắc.",
+    "expected_context": "Hội trường nhà A2: Sáng từ 7h30 đến 12h00: Ngành/ Chương trình Công nghệ thông tin; Khoa học máy tính"
+  },
+  {
+    "question": "Học viện Công nghệ Bưu chính Viễn thông có tuyển sinh ngành Đào tạo Phi công hàng không vũ trụ năm 2026 không?",
+    "expected_answer": "Học viện không tuyển sinh ngành Đào tạo Phi công hàng không vũ trụ trong Đề án tuyển sinh năm 2026.",
+    "expected_context": "Học viện chỉ đào tạo các ngành kỹ thuật, công nghệ thông tin, an toàn thông tin, điện tử viễn thông, kinh tế và truyền thông theo đề án tuyển sinh 2026."
+  }
+]

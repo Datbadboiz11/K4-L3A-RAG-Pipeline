@@ -1,0 +1,329 @@
+# Thông báo Điểm chuẩn trúng tuyển vào đại học hệ chính quy năm 2026
+
+**Source:** https://tuyensinh.ptit.edu.vn/thong-bao-diem-chuan-trung-tuyen-vao-dai-hoc-he-chinh-quy-nam-2026/
+
+**Crawled:** 2026-09-20T10:49:16.515450
+
+---
+
+# Thông báo Điểm chuẩn trúng tuyển vào đại học hệ chính quy năm 2026
+
+- Thông báo tuyển sinh đại học
+
+- 10/08/2026
+
+- admintuyensinh
+
+Học viện Công nghệ Bưu chính Viễn thông thông báo điểm chuẩn trúng tuyển năm 2026 và kế hoạch xác nhận nhập học, nhập học như sau:
+
+I. ĐIỂM CHUẨN TRÚNG TUYỂN:
+
+### BẢNG TỔNG HỢP CHI TIẾT ĐIỂM CHUẨN TRÚNG TUYỂN NĂM 2026 CỦA CÁC NGÀNH
+
+#### 1. CƠ SỞ ĐÀO TẠO PHÍA BẮC (Hà Nội - mã trường: BVH) - Hệ đại trà chính quy:
+- **Khoa học máy tính / Khoa học dữ liệu (ngành Khoa học máy tính, chuyên ngành Khoa học dữ liệu - Cử nhân đại trà phía Bắc, mã 7480101)**: Ngành Khoa học máy tính lấy bao nhiêu điểm? Điểm chuẩn trúng tuyển theo kết quả thi tốt nghiệp THPT năm 2026 là 26.00 điểm. Điểm xét tuyển tài năng: 86.42 điểm; Điểm SAT: 1372.28; Điểm TSA (ĐHBK Hà Nội): 61.64; Điểm HSA (ĐHQGHN): 100.34; Điểm V-ACT: 929.92; Điểm SPT: 23.73; Điểm xét tuyển kết hợp: 28.96 điểm.
+- **Công nghệ thông tin (Đại trà phía Bắc, mã ngành 7480201)**: Ngành Công nghệ thông tin đại trà phía Bắc lấy bao nhiêu điểm? Điểm chuẩn trúng tuyển thi tốt nghiệp THPT năm 2026 là 23.00 điểm. Điểm xét tuyển tài năng: 64.70; Điểm SAT: 1169.61; Điểm TSA: 52.48; Điểm HSA: 81.64; Điểm V-ACT: 762.73; Điểm SPT: 17.82; Điểm xét tuyển kết hợp: 27.14 điểm.
+- **Trí tuệ nhân tạo (mã ngành 7480107)**: Ngành Trí tuệ nhân tạo phía Bắc lấy bao nhiêu điểm? Điểm chuẩn trúng tuyển thi tốt nghiệp THPT năm 2026 là 25.00 điểm. Điểm xét tuyển tài năng: 82.89; Điểm SAT: 1306.86; Điểm TSA: 58.30; Điểm HSA: 93.83; Điểm V-ACT: 875.00; Điểm SPT: 22.64; Điểm xét tuyển kết hợp: 28.38 điểm.
+- **An toàn thông tin (Đại trà phía Bắc, mã ngành 7480202)**: Ngành An toàn thông tin đại trà phía Bắc lấy bao nhiêu điểm? Điểm chuẩn trúng tuyển thi tốt nghiệp THPT năm 2026 là 25.22 điểm. Điểm xét tuyển tài năng: 83.41; Điểm SAT: 1319.43; Điểm TSA: 59.04; Điểm HSA: 95.34; Điểm V-ACT: 887.82; Điểm SPT: 22.89; Điểm xét tuyển kết hợp: 28.50 điểm.
+- **Kỹ thuật Điện tử viễn thông (mã ngành 7520207)**: Ngành Kỹ thuật Điện tử viễn thông phía Bắc lấy bao nhiêu điểm? Điểm chuẩn thi tốt nghiệp THPT năm 2026 là 25.18 điểm. Điểm xét tuyển tài năng: 83.32; Điểm SAT: 1317.15; Điểm TSA: 58.91; Điểm HSA: 95.06; Điểm V-ACT: 885.49; Điểm SPT: 22.85; Điểm xét tuyển kết hợp: 28.48 điểm.
+- **Kỹ thuật Điều khiển và tự động hóa (mã ngành 7520216)**: Điểm chuẩn thi tốt nghiệp THPT năm 2026 là 26.91 điểm.
+- **Công nghệ Kỹ thuật Điện, điện tử (mã ngành 7510301)**: Điểm chuẩn thi tốt nghiệp THPT năm 2026 là 24.87 điểm.
+- **Công nghệ vi mạch bán dẫn (mã ngành 7510301VM)**: Điểm chuẩn thi tốt nghiệp THPT năm 2026 là 25.64 điểm.
+- **Kỹ thuật dữ liệu (mã ngành 7480102)**: Điểm chuẩn thi tốt nghiệp THPT năm 2026 là 23.70 điểm.
+- **Báo chí (mã ngành 7320101)**: Điểm chuẩn thi tốt nghiệp THPT năm 2026 là 22.00 điểm.
+- **Truyền thông đa phương tiện (mã ngành 7320104)**: Điểm chuẩn thi tốt nghiệp THPT năm 2026 là 24.54 điểm.
+- **Công nghệ đa phương tiện (mã ngành 7329001)**: Điểm chuẩn thi tốt nghiệp THPT năm 2026 là 22.75 điểm.
+- **Quản trị kinh doanh (mã ngành 7340101)**: Điểm chuẩn thi tốt nghiệp THPT năm 2026 là 21.93 điểm.
+- **Logistics và quản trị chuỗi cung ứng (mã ngành 7340101LG)**: Điểm chuẩn thi tốt nghiệp THPT năm 2026 là 24.44 điểm.
+- **Thương mại điện tử (mã ngành 7340122)**: Điểm chuẩn thi tốt nghiệp THPT năm 2026 là 23.56 điểm.
+- **Marketing (mã ngành 7340115)**: Điểm chuẩn thi tốt nghiệp THPT năm 2026 là 22.75 điểm.
+- **Quan hệ công chúng (mã ngành 7340115QH)**: Điểm chuẩn thi tốt nghiệp THPT năm 2026 là 22.26 điểm.
+- **Kế toán (mã ngành 7340301)**: Điểm chuẩn thi tốt nghiệp THPT năm 2026 là 22.47 điểm.
+- **Công nghệ tài chính - Fintech (mã ngành 7340205)**: Điểm chuẩn thi tốt nghiệp THPT năm 2026 là 23.23 điểm.
+- **Thiết kế đồ họa game (mã ngành 7329001GA)**: Điểm chuẩn thi tốt nghiệp THPT năm 2026 là 22.90 điểm.
+
+#### 2. CƠ SỞ ĐÀO TẠO PHÍA BẮC (mã BVH) - Chương trình Chất lượng cao, Đặc thù, Liên kết:
+- **Công nghệ thông tin chất lượng cao (mã 7480201CL)**: Điểm chuẩn thi tốt nghiệp THPT năm 2026 là 21.00 điểm. Điểm xét tuyển tài năng: 56.80; Điểm SAT: 1130.00; Điểm HSA: 76.60; Điểm xét tuyển kết hợp: 22.86 điểm.
+- **Công nghệ thông tin Việt – Nhật (mã 7480201VJ)**: Điểm chuẩn thi tốt nghiệp THPT năm 2026 là 21.22 điểm. Điểm xét tuyển kết hợp: 23.44 điểm.
+- **Công nghệ thông tin định hướng ứng dụng (mã 7480201UD)**: Điểm chuẩn thi tốt nghiệp THPT năm 2026 là 20.21 điểm. Điểm xét tuyển kết hợp: 20.79 điểm.
+- **An toàn thông tin chất lượng cao (mã 7480202CL)**: Điểm chuẩn thi tốt nghiệp THPT năm 2026 là 23.20 điểm.
+- **Marketing chất lượng cao (mã 7340115CL)**: Điểm chuẩn thi tốt nghiệp THPT năm 2026 là 21.44 điểm.
+- **Truyền thông đa phương tiện chất lượng cao (mã 7320104CL)**: Điểm chuẩn thi tốt nghiệp THPT năm 2026 là 22.23 điểm.
+- **Thiết kế và phát triển Game (mã 7329001GM)**: Điểm chuẩn thi tốt nghiệp THPT năm 2026 là 22.11 điểm.
+- **Kế toán chuẩn quốc tế ACCA (mã 7340301CL)**: Điểm chuẩn thi tốt nghiệp THPT năm 2026 là 20.50 điểm.
+- **Công nghệ thông tin liên kết Đại học Macquarie Australia (mã 7480201LK)**: Điểm chuẩn thi tốt nghiệp THPT năm 2026 là 21.00 điểm.
+
+#### 3. CƠ SỞ ĐÀO TẠO PHÍA BẮC (mã BVH) - Chương trình Thạc sĩ tích hợp cử nhân (Tài năng):
+- **Khoa học máy tính thạc sĩ tích hợp tài năng (mã 8480101TN)**: Ngành Khoa học máy tính thạc sĩ tài năng lấy bao nhiêu điểm? Điểm chuẩn trúng tuyển theo kết quả thi tốt nghiệp THPT năm 2026 là 24.25 điểm.
+- **Hệ thống thông tin thạc sĩ tích hợp tài năng (mã 8480104TN)**: Điểm chuẩn thi tốt nghiệp THPT năm 2026 là 24.40 điểm.
+- **An toàn thông tin thạc sĩ tích hợp tài năng (mã 8480202TN)**: Điểm chuẩn thi tốt nghiệp THPT năm 2026 là 23.75 điểm.
+
+#### 4. CƠ SỞ ĐÀO TẠO PHÍA NAM (TP.HCM - mã trường: BVS) - Hệ đại trà chính quy:
+- **Công nghệ thông tin (Đại trà phía Nam, mã ngành 7480201)**: Ngành Công nghệ thông tin đại trà phía Nam lấy bao nhiêu điểm? Điểm chuẩn trúng tuyển thi tốt nghiệp THPT năm 2026 là 17.00 điểm. Điểm xét tuyển tài năng: 59.53; Điểm SAT: 1130.00; Điểm TSA: 50.10; Điểm HSA: 75.33; Điểm V-ACT: 611.33; Điểm xét tuyển kết hợp: 19.68 điểm.
+- **Kỹ thuật Điện tử viễn thông (mã ngành 7520207)**: Điểm chuẩn thi tốt nghiệp THPT năm 2026 là 16.60 điểm.
+- **Công nghệ Internet vạn vật - IoT (mã ngành 7520208)**: Điểm chuẩn thi tốt nghiệp THPT năm 2026 là 17.00 điểm.
+- **Kỹ thuật Điều khiển và tự động hóa (mã ngành 7520216)**: Điểm chuẩn thi tốt nghiệp THPT năm 2026 là 18.50 điểm.
+- **Công nghệ Kỹ thuật Điện, điện tử (mã ngành 7510301)**: Điểm chuẩn thi tốt nghiệp THPT năm 2026 là 19.05 điểm.
+- **An toàn thông tin (mã ngành 7480202)**: Điểm chuẩn thi tốt nghiệp THPT năm 2026 là 23.22 điểm.
+- **Trí tuệ nhân tạo (mã ngành 7480107)**: Điểm chuẩn thi tốt nghiệp THPT năm 2026 là 17.00 điểm.
+- **Kỹ thuật dữ liệu (mã ngành 7480102)**: Điểm chuẩn thi tốt nghiệp THPT năm 2026 là 17.50 điểm.
+- **Công nghệ tài chính - Fintech (mã ngành 7340205)**: Điểm chuẩn thi tốt nghiệp THPT năm 2026 là 17.00 điểm.
+- **Công nghệ đa phương tiện (mã ngành 7329001)**: Điểm chuẩn thi tốt nghiệp THPT năm 2026 là 20.00 điểm.
+- **Truyền thông đa phương tiện (mã ngành 7320104)**: Điểm chuẩn thi tốt nghiệp THPT năm 2026 là 24.00 điểm.
+- **Quản trị kinh doanh (mã ngành 7340101)**: Điểm chuẩn thi tốt nghiệp THPT năm 2026 là 16.60 điểm.
+- **Marketing (mã ngành 7340115)**: Điểm chuẩn thi tốt nghiệp THPT năm 2026 là 16.75 điểm.
+- **Kế toán (mã ngành 7340301)**: Điểm chuẩn thi tốt nghiệp THPT năm 2026 là 16.50 điểm.
+- **Công nghệ vi mạch bán dẫn (mã ngành 7510301VM)**: Điểm chuẩn thi tốt nghiệp THPT năm 2026 là 22.75 điểm.
+
+#### 5. CƠ SỞ ĐÀO TẠO PHÍA NAM (mã BVS) - Chương trình Chất lượng cao:
+- **Công nghệ thông tin chất lượng cao (mã 7480201CL)**: Điểm chuẩn thi tốt nghiệp THPT năm 2026 là 16.60 điểm. Điểm xét tuyển kết hợp: 19.16 điểm.
+- **An toàn thông tin chất lượng cao (mã 7480202CL)**: Điểm chuẩn thi tốt nghiệp THPT năm 2026 là 20.00 điểm.
+- **Marketing chất lượng cao (mã 7340115CL)**: Điểm chuẩn thi tốt nghiệp THPT năm 2026 là 17.25 điểm.
+
+---
+
+### BẢNG CHI TIẾT GỐC THEO CÁC PHƯƠNG THỨC XÉT TUYỂN:
+
+- CƠ SỞ ĐÀO TẠO PHÍA BẮC (mã BVH)
+
+| TT | Tên ngành, chương trình | Mã xét tuyển | Điểm chuẩn trúng tuyển | Tiêu chí phụ (Áp dụng với các thí sinh cùng điểm xét ở cuối danh sách) (*) |
+
+| --- | --- | --- | --- | --- |
+
+| Phương thức xét tuyển dựa vào kết quả thi tốt nghiệp THPT năm 2026  (thang 30) | Phương thức xét tuyển dựa vào hồ sơ năng lực (xét tuyển tài năng)  (thang 100) | Xét tuyển dựa vào kết quả Chứng chỉ đánh giá năng lực quốc tế | Xét tuyển dựa vào kết quả trong các kỳ thi ĐGNL, ĐGTD | Phương thức xét tuyển Kết hợp  (thang 30) |
+
+| Chứng chỉ SAT  (thang 1600) | Chứng chỉ ACT  (thang 36) | Bài thi TSA  (thang 100) | Bài thi HSA (thang 150) | Bài thi V-ACT  (thang 1200) | Bài thi SPT  (thang 30) | Điểm cộng (thang 30) | TTNV |
+
+| I | NGÀNH/CHƯƠNG TRÌNH ĐÀO TẠO ĐẠI TRÀ |
+
+| 1 | Kỹ thuật Điện tử viễn thông | 7520207 | 25.18 | 83.32 | 1317.15 | 29.35 | 58.91 | 95.06 | 885.49 | 22.85 | 28.48 | ĐC =0 | TTNV  <=4 |
+
+| 2 | Trí tuệ nhân tạo vạn vật (AIoT) | 7520207AT | 24.47 | 81.62 | 1276.58 | 28.54 | 56.52 | 90.19 | 844.11 | 22.04 | 28.07 | ĐC <=1.5 | TTNV  <=4 |
+
+| 3 | Kỹ thuật Điều khiển và tự động hóa | 7520216 | 26.91 | 92.48 | 1452.62 | 33.06 | 65.03 | 105.79 | 972.06 | 24.60 | 29.51 | ĐC =0 | TTNV  <=2 |
+
+| 4 | Công nghệ Kỹ thuật Điện, điện tử | 7510301 | 24.87 | 82.58 | 1299.43 | 28.99 | 57.87 | 92.94 | 867.42 | 22.49 | 28.30 | ĐC =0 | TTNV  <=3 |
+
+| 5 | Công nghệ vi mạch bán dẫn | 7510301VM | 25.64 | 84.41 | 1343.43 | 29.87 | 60.46 | 98.22 | 912.30 | 23.37 | 28.74 | ĐC =0 | TTNV  <=2 |
+
+| 6 | Công nghệ thông tin | 7480201 | 23.00 | 64.70 | 1169.61 | 26.00 | 52.48 | 81.64 | 762.73 | 17.82 | 27.14 | – | – |
+
+| 7 | Trí tuệ nhân tạo | 7480107 | 25.00 | 82.89 | 1306.86 | 29.14 | 58.30 | 93.83 | 875.00 | 22.64 | 28.38 | – | – |
+
+| 8 | An toàn thông tin | 7480202 | 25.22 | 83.41 | 1319.43 | 29.39 | 59.04 | 95.34 | 887.82 | 22.89 | 28.50 | ĐC <=1.75 | TTNV  <=3 |
+
+| 9 | Khoa học dữ liệu (Khoa học máy tính) | 7480101 | 26.00 | 86.42 | 1372.28 | 30.67 | 61.64 | 100.34 | 929.92 | 23.73 | 28.96 | – | – |
+
+| 10 | Kỹ thuật dữ liệu | 7480102 | 23.70 | 75.76 | 1225.60 | 27.39 | 54.20 | 85.38 | 800.53 | 20.39 | 27.60 | ĐC =0 | TTNV  <=6 |
+
+| 11 | Báo chí | 7320101 | 22.00 | 56.80 | 1130.00 | 25.00 | 51.00 | 78.20 | 708.53 | 15.80 | 25.49 | ĐC =0 | TTNV  <=2 |
+
+| 12 | Truyền thông đa phương tiện | 7320104 | 24.54 | 81.79 | 1280.58 | 28.62 | 56.76 | 90.67 | 848.19 | 22.12 | 28.11 | ĐC <=1 | TTNV  <=8 |
+
+| 13 | Công nghệ đa phương tiện | 7329001 | 22.75 | 60.75 | 1149.61 | 25.50 | 51.86 | 80.31 | 749.23 | 16.90 | 26.97 | ĐC =0 | TTNV  =1 |
+
+| 14 | Quản trị kinh doanh | 7340101 | 21.93 | 56.80 | 1130.00 | 25.00 | 50.97 | 78.09 | 704.72 | 15.78 | 25.31 | ĐC =0 | TTNV  <=12 |
+
+| 15 | Logistics và quản trị chuỗi cung ứng | 7340101LG | 24.44 | 81.55 | 1274.86 | 28.50 | 56.42 | 89.99 | 842.36 | 22.00 | 28.06 | ĐC =0 | TTNV =1 |
+
+| 16 | Thương mại điện tử | 7340122 | 23.56 | 73.55 | 1214.41 | 27.12 | 53.86 | 84.63 | 792.98 | 19.87 | 27.51 | ĐC =0 | TTNV  <=4 |
+
+| 17 | Marketing | 7340115 | 22.75 | 60.75 | 1149.61 | 25.50 | 51.86 | 80.31 | 749.23 | 16.90 | 26.97 | ĐC =0 | TTNV  <=4 |
+
+| 18 | Quan hệ công chúng | 7340115QH | 22.26 | 56.80 | 1130.00 | 25.00 | 51.13 | 78.61 | 722.68 | 15.91 | 26.17 | ĐC <=0.5 | TTNV  <=7 |
+
+| 19 | Kế toán | 7340301 | 22.47 | 56.80 | 1130.00 | 25.00 | 51.24 | 78.95 | 734.10 | 15.99 | 26.73 | ĐC =0 | TTNV  <=14 |
+
+| 20 | Công nghệ tài chính  (Fintech) | 7340205 | 23.23 | 68.34 | 1188.00 | 26.45 | 53.04 | 82.87 | 775.15 | 18.66 | 27.29 | ĐC <=1.5 | TTNV  <=4 |
+
+| 21 | Phân tích dữ liệu trong tài chính, kinh doanh | 7340201DL | 20.25 | 56.80 | 1130.00 | 25.00 | 50.13 | 75.40 | 613.33 | 15.10 | 20.89 | ĐC =0 | TTNV  <=4 |
+
+| 22 | Quản trị Đổi mới sáng tạo và khởi nghiệp | 7340101DM | 22.25 | 56.80 | 1130.00 | 25.00 | 51.13 | 78.60 | 722.13 | 15.90 | 26.15 | ĐC =0 | TTNV  =1 |
+
+| 23 | Logistics trong kinh tế tầm thấp | 7340101KT | 20.54 | 56.80 | 1130.00 | 25.00 | 50.27 | 75.86 | 629.11 | 15.22 | 21.65 | ĐC =0 | TTNV  <=2 |
+
+| 24 | Công nghệ công nghiệp văn hóa số (định hướng điện ảnh) | 7329001VH | 21.52 | 56.80 | 1130.00 | 25.00 | 50.76 | 77.43 | 682.42 | 15.61 | 24.23 | ĐC =0 | TTNV  <=6 |
+
+| 25 | Thiết kế đồ họa game | 7329001GA | 22.90 | 63.12 | 1161.61 | 25.80 | 52.23 | 81.11 | 757.34 | 17.45 | 27.07 | ĐC <=0.75 | TTNV  <=3 |
+
+| 26 | Kỹ thuật Truyền thông Hàng không vũ trụ | 7520207HK | 21.17 | 56.80 | 1130.00 | 25.00 | 50.59 | 76.87 | 663.38 | 15.47 | 23.31 | ĐC <=0.5 | TTNV  =1 |
+
+| 27 | UAV và Robot di động tự hành | 7520216UR | 23.14 | 66.92 | 1180.81 | 26.28 | 52.82 | 82.39 | 770.30 | 18.33 | 27.23 | ĐC <=0.5 | TTNV  <=3 |
+
+| II | CHƯƠNG TRÌNH CHẤT LƯỢNG CAO, ĐẶC THÙ |
+
+| 1 | Công nghệ thông tin | 7480201CL | 21.00 | 56.80 | 1130.00 | 25.00 | 50.50 | 76.60 | 654.13 | 15.40 | 22.86 | – | – |
+
+| 2 | An toàn thông tin | 7480202CL | 23.20 | 67.86 | 1185.60 | 26.39 | 52.97 | 82.71 | 773.53 | 18.55 | 27.27 | ĐC <=1.5 | TTNV  =1 |
+
+| 3 | Công nghệ thông tin Việt – Nhật | 7480201VJ | 21.22 | 56.80 | 1130.00 | 25.00 | 50.61 | 76.95 | 666.10 | 15.49 | 23.44 | ĐC =0 | TTNV  <=2 |
+
+| 4 | Công nghệ thông tin  (định hướng ứng dụng) | 7480201UD | 20.21 | 56.80 | 1130.00 | 25.00 | 50.11 | 75.33 | 611.16 | 15.09 | 20.79 | ĐC =0 | TTNV  <=8 |
+
+| 5 | Kế toán  (chuẩn quốc tế ACCA) | 7340301CL | 20.50 | 56.80 | 1130.00 | 25.00 | 50.25 | 75.80 | 626.93 | 15.20 | 21.55 | – | – |
+
+| 6 | Marketing | 7340115CL | 21.44 | 56.80 | 1130.00 | 25.00 | 50.72 | 77.30 | 678.07 | 15.58 | 24.02 | ĐC =0 | TTNV  <=5 |
+
+| 7 | Truyền thông đa phương tiện | 7320104CL | 22.23 | 56.80 | 1130.00 | 25.00 | 51.12 | 78.56 | 721.05 | 15.89 | 26.10 | ĐC <=0.75 | TTNV  <=8 |
+
+| 8 | Thiết kế và phát triển Game | 7329001GM | 22.11 | 56.80 | 1130.00 | 25.00 | 51.06 | 78.37 | 714.52 | 15.85 | 25.78 | ĐC =0 | TTNV  <=3 |
+
+| III | CHƯƠNG TRÌNH ĐÀO TẠO TÀI NĂNG – THẠC SĨ TÍCH HỢP CỬ NHÂN |
+
+| 1 | Khoa học máy tính | 8480101TN | 24.25 | – | – | – | – | – | – | – | – | – | – |
+
+| 2 | Hệ thống thông tin | 8480104 TN | 24.40 | – | – | – | – | – | – | – | – | – | – |
+
+| 3 | An toàn thông tin | 8480202 TN | 23.75 | – | – | – | – | – | – | – | – | – | – |
+
+| 4 | Kỹ thuật viễn thông | 8520208 TN | 23.72 | – | – | – | – | – | – | – | – | – | – |
+
+| 5 | Kỹ thuật điện tử | 8520203 TN | 24.00 | – | – | – | – | – | – | – | – | – | – |
+
+| IV | CÁC CHƯƠNG TRÌNH LIÊN KẾT QUỐC TẾ |
+
+| 1 | Công nghệ thông tin (Liên kết với Đại học Macquarie, Australia) | 7480201LK | 21.00 | 56.80 | 1130.00 | 25.00 | 50.50 | 76.60 | 654.13 | 15.40 | 22.86 | – | – |
+
+| 2 | Công nghệ tài chính (Liên kết đại học Huddersfield, Vương Quốc Anh) | 7340205LK | 23.50 | 72.60 | 1209.61 | 27.00 | 53.71 | 84.31 | 789.73 | 19.65 | 27.47 | – | – |
+
+| 3 | Truyền thông Đa phương tiện (Liên kết với đại học Công nghệ Queensland, Úc | 7320104LK | 22.40 | 56.80 | 1130.00 | 25.00 | 51.20 | 78.84 | 730.29 | 15.96 | 26.54 | – | – |
+
+| 4 | Công nghệ Đa phương tiện (Liên kết với đại học Canberra, Australia) | 7329001LK | 22.75 | 60.75 | 1149.61 | 25.50 | 51.86 | 80.31 | 749.23 | 16.90 | 26.97 | – | – |
+
+- CƠ SỞ ĐÀO TẠO PHÍA NAM (mã BVS)
+
+| TT | Tên ngành, chương trình | Mã xét tuyển | Điểm chuẩn trúng tuyển | Tiêu chí khi thí sinh có điểm xét tuyển bằng mức điểm trúng tuyển (*) |
+
+| --- | --- | --- | --- | --- |
+
+| Phương thức xét tuyển dựa vào kết quả thi tốt nghiệp THPT năm 2026  (thang 30) | Phương thức xét tuyển dựa vào hồ sơ năng lực (xét tuyển tài năng)  (thang 100) | Xét tuyển dựa vào kết quả Chứng chỉ đánh giá năng lực quốc tế | Xét tuyển dựa vào kết quả trong các kỳ thi ĐGNL, ĐGTD | Phương thức xét tuyển Kết hợp  (thang 30) |
+
+| Chứng chỉ SAT  (thang 1600) | Chứng chỉ ACT  (thang 36) | Bài thi TSA  (thang 100) | Bài thi HSA (thang 150) | Bài thi V-ACT  (thang 1200) | Bài thi SPT  (thang 30) | Điểm cộng | TTNV |
+
+| I | NGÀNH/CHƯƠNG TRÌNH ĐÀO TẠO ĐẠI TRÀ |  |  |  |  |  |
+
+| 1 | Kỹ thuật Điện tử viễn thông | 7520207 | 16.60 | 59.53 | 1130.00 | 25.00 | 50.02 | 75.07 | 602.27 | 15.02 | 19.16 | ĐC=0 | TTNV ≤12 |
+
+| 2 | Công nghệ Internet vạn vật (IoT) | 7520208 | 17.00 | 59.53 | 1130.00 | 25.00 | 50.10 | 75.33 | 611.33 | 15.08 | 19.68 | ĐC=0 | TTNV ≤13 |
+
+| 3 | Kỹ thuật Điều khiển và tự động hóa | 7520216 | 18.50 | 59.53 | 1130.00 | 25.00 | 50.42 | 76.33 | 645.33 | 15.33 | 21.62 | ĐC=0 | TTNV ≤9 |
+
+| 4 | Công nghệ Kỹ thuật Điện, điện tử | 7510301 | 19.05 | 59.53 | 1130.00 | 25.00 | 50.53 | 76.70 | 657.80 | 15.43 | 22.33 | ĐC=0 | TTNV ≤8 |
+
+| 5 | Công nghệ thông tin | 7480201 | 17.00 | 59.53 | 1130.00 | 25.00 | 50.10 | 75.33 | 611.33 | 15.08 | 19.68 | ĐC=0 | TTNV ≤8 |
+
+| 6 | An toàn thông tin | 7480202 | 23.22 | 69.60 | 1187.60 | 26.44 | 53.03 | 82.84 | 774.88 | 18.64 | 27.28 | ĐC=0 | TTNV ≤10 |
+
+| 7 | Công nghệ đa phương tiện | 7329001 | 20.00 | 59.53 | 1130.00 | 25.00 | 50.73 | 77.33 | 679.33 | 15.58 | 23.56 | ĐC=0 | TTNV ≤8 |
+
+| 8 | Truyền thông đa phương tiện | 7320104 | 24.00 | 80.50 | 1250.00 | 28.00 | 54.95 | 87.00 | 817.00 | 21.50 | 27.80 | ĐC=0 | TTNV ≤5 |
+
+| 9 | Quản trị kinh doanh | 7340101 | 16.60 | 59.53 | 1130.00 | 25.00 | 50.02 | 75.07 | 602.27 | 15.02 | 19.16 | ĐC=0 | TTNV ≤10 |
+
+| 10 | Marketing | 7340115 | 16.75 | 59.53 | 1130.00 | 25.00 | 50.05 | 75.17 | 605.67 | 15.04 | 19.35 | ĐC=0 | TTNV ≤11 |
+
+| 11 | Kế toán | 7340301 | 16.50 | 59.53 | 1130.00 | 25.00 | 50.00 | 75.00 | 600.00 | 15.00 | 19.03 | ĐC=0 | TTNV ≤9 |
+
+| 12 | Công nghệ vi mạch bán dẫn | 7510301VM | 22.75 | 63.02 | 1150.00 | 25.50 | 51.87 | 80.33 | 749.50 | 16.92 | 26.97 | ĐC=0 | TTNV ≤10 |
+
+| 13 | Trí tuệ nhân tạo | 7480107 | 17.00 | 59.53 | 1130.00 | 25.00 | 50.10 | 75.33 | 611.33 | 15.08 | 19.68 | ĐC=0 | TTNV ≤6 |
+
+| 14 | Kỹ thuật dữ liệu | 7480102 | 17.50 | 59.53 | 1130.00 | 25.00 | 50.21 | 75.67 | 622.67 | 15.17 | 20.33 | ĐC=0 | TTNV ≤5 |
+
+| 15 | Công nghệ tài chính  (Fintech) | 7340205 | 17.00 | 59.53 | 1130.00 | 25.00 | 50.10 | 75.33 | 611.33 | 15.08 | 19.68 | ĐC=0 | TTNV ≤6 |
+
+| II | CHƯƠNG TRÌNH CHẤT LƯỢNG CAO, ĐẶC THÙ |  |  |  |  |  |  |  |
+
+| 1 | Công nghệ thông tin | 7480201CL | 16.60 | 59.53 | 1130.00 | 25.00 | 50.02 | 75.07 | 602.27 | 15.02 | 19.16 | ĐC =0 | TTNV ≤7 |
+
+| 2 | An toàn thông tin | 7480202CL | 20.00 | 59.53 | 1130.00 | 25.00 | 50.73 | 77.33 | 679.33 | 15.58 | 23.56 | ĐC<=0.75 | TTNV ≤7 |
+
+| 3 | Marketing | 7340115CL | 17.25 | 59.53 | 1130.00 | 25.00 | 50.16 | 75.50 | 617.00 | 15.12 | 20.00 | ĐC =0 | TTNV ≤11 |
+
+| III | CHƯƠNG TRÌNH ĐÀO TẠO TÀI NĂNG – THẠC SĨ TÍCH HỢP CỬ NHÂN |
+
+| 1 | Hệ thống thông tin | 8480104 TN | 24.2 | – | – | – | – | – | – | – | – | ĐC =0 | TTNV =1 |
+
+(*):  Thực hiện quy định tại điểm c khoản 3 Điều 15 của Quy chế tuyển đại học, tuyển sinh cao đẳng ngành Giáo dục Mầm non Ban hành kèm theo Thông tư số 06/2026/TT-BGDĐT ngày 15 tháng 2 năm 2026 của Bộ trưởng Bộ Giáo dục và Đào tạo, trường hợp nhiều thí sinh có cùng điểm xét ở cuối danh sách, thứ tự xét ưu tiên đối với các thí sinh có điểm cộng thấp hơn; trường hợp nhiều thí sinh có cùng điểm xét ở cuối danh sách và có điểm cộng bằng nhau, thứ tự xét ưu tiên đối với các thí sinh có thứ tự ưu tiên nguyện vọng cao hơn.
+
+II. TRA CỨU KẾT QUẢ TUYỂN SINH
+
+Học viện Công nghệ Bưu chính Viễn thông công bố danh sách trúng tuyển để thí sinh tra cứu kết quả xét tuyển vào đại học chính quy trên trang tra cứu kết quả tuyển sinh chính thức của Học viện tại địa chỉ: https://tracuu.ptit.edu.vn từ 16h00 ngày 10/08/2026.
+
+III. XÁC NHẬN NHẬP HỌC
+
+Tất cả các thí sinh đã trúng tuyển chính thức phải thực hiện xác nhận nhập học. Cụ thể:
+
+- Thí sinh phải thực hiện xác nhận nhập học trên hệ thống tuyển sinh của Bộ Giáo dục và Đào tạo tại địa chỉ https://thisinh.thitotnghiepthpt.edu.vn/ bằng hình thức trực tuyến và trên tài khoản của cá nhân.
+
+- Chỉ có các thí sinh thực hiện đầy đủ việc Xác nhận nhập học và trong thời gian quy định mới được nhận Giấy báo trúng tuyển của Học viện.
+
+- Các thí sinh không thực hiện đầy đủ việc Xác nhận nhập học được xem như từ chối nhập học vào Học viện và sẽ bị hủy kết quả xét trúng tuyển.
+
+- Thời gian thực hiện xác nhận nhập học: Hoàn thành trước 17h00 ngày 21/8/2026.
+
+- Hình thức xác nhận nhập học: Trực tuyến.
+
+- Kiểm tra kết quả xác nhận nhập học: Thí sinh có thể theo dõi kết quả xác nhận nhập học trên hệ thống tuyển sinh của Bộ GD&ĐT trong tài khoản của cá nhân hoặc trong tài khoản xét tuyển của cá nhân trên hệ thống xét tuyển trực tuyến của Học viện tại địa chỉ https://xettuyen.ptit.edu.vn.
+
+IV. THỜI GIAN VÀ PHƯƠNG THỨC NHẬP HỌC (Cơ sở Đào tạo phía Bắc -BVH)
+
+Sau khi đã hoàn thành xác nhận nhập học, các thí sinh sẽ thực hiện các thủ tục nhập học như sau:
+
+- Đối tượng: Các thí sinh đã chính thức trúng tuyển vào đại học hệ chính quy năm 2026 và đã hoàn thành việc xác nhận nhập học.
+
+- Thời gian thực hiện nhập học
+
+- Thời gian thực hiện nhập học trực tuyến: Bắt đầu từ ngày 14/8/2026 đến hết ngày 21/8/2026.
+
+Thời gian nhập học trực tiếp và nộp hồ sơ nhập học:
+
+Phía Bắc: Ngày 22, 23 và 24 tháng 8 năm 2026 (theo thông tin trên Giấy báo trúng tuyển).
+
+Phía Nam: Ngày 22 và 23 tháng 8 năm 2026 (theo thông tin trên Giấy báo trúng tuyển).
+
+- Phương thức làm thủ tục nhập học trực tuyến:
+
+- Phía Bắc: Thí sinh thực hiện Nhập học trực tuyến trên hệ thống xét tuyển trực tuyến của Học viện tại địa chỉ https://xettuyen.ptit.edu.vn và hoàn thành đóng kinh phí nhập học bằng hình thức trực tuyến (theo hướng dẫn trên hệ thống), hoàn thành trước 23h00 ngày 24/8/2026.
+
++) Đối với các thí sinh đã có tài khoản trên hệ thống xét tuyển trực tuyến của Học viện tiếp tục sử dụng và không cần phải đăng ký tài khoản mới.
+
++) Đối với các thí sinh chưa có tài khoản, thí sinh đăng nhập vào hệ thống xét tuyển bằng tài khoản mặc định mà hệ thống đã tự động cấp cho thí sinh.Cụ thể:
+
+- Tài khoản (tên đăng nhập) là số CCCD của thí sinh (số CCCD đã sử dụng khi đăng ký hệ thống tuyển sinh của Bộ Giáo dục và Đào tạo);
+
+Mật khẩu mặc định là ngày tháng năm sinh của thí sinh theo định dạng DDMMYYYY
+
+Phía Nam: Thí sinh thực hiện Nhập học trực tuyến trên hệ thống xét tuyển trực tuyến của Học viện Cơ sở tại địa chỉ https://nhaphoc.ptithcm.edu.vn và hoàn thành đóng kinh phí nhập học bằng hình thức trực tuyến (theo hướng dẫn trên hệ thống), hoàn thành trước 23h00 ngày 23/8/2026.
+
+Kênh tư vấn, hỗ trợ thí sinh
+
+Cơ sở đào tạo Phía Bắc (mã trường BVH):
+
+Điện thoại: 024.33528122, 024.33512252
+
+Website: https://ptit.edu.vn và https://tuyensinh.ptit.edu.vn
+
+Fanpage https://facebook.com/ptittuyensinh
+
+Zalo https://zalo.me/1260203497642986925
+
+Cơ sở đào tạo Phía Nam (mã trường BVS):
+
+Điện thoại: 028.38297220
+
+Website: https://ptithcm.edu.vn
+
+Fanpage: https://www.facebook.com/ptithochiminh
+
+Zalo: https://zalo.me/ptithcm
+
+Học viện Công nghệ Bưu chính Viễn thông xin trân trọng thông báo!
+
+- Chia sẻ:
+
+-
+
+-
+
+-
