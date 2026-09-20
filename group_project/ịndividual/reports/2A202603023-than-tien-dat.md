@@ -6,7 +6,7 @@
 
 - **Họ và tên:** Thân Tiến Đạt
 - **Mã học viên:** 2A202603023
-- **Nhóm:** Nhóm 2 thành viên (PTIT Admission RAG Pipeline)
+- **Nhóm:** KDDK
 - **Repository/branch:** Datbadboiz11/K4-L3A-RAG-Pipeline / main
 
 ---
